@@ -1,0 +1,45 @@
+
+h3{
+  text-transform: uppercase;
+  color: #E1624F;
+  font-family: 'Open Sans';
+  font-size: 16px;
+  font-weight: bold;
+
+}
+.busan_geral{
+  width:1120px;
+  height:660px
+}
+.templo1{
+  width:1120px;
+  height:350px
+}
+.templo2{
+  width:1120px;
+  height:660px
+}
+.templo3{
+  width:1120px;
+  height:350px
+}
+.pre_rodape{
+border-top: solid;
+padding-top:40px;
+margin-top: 40px;
+}
+.historia{
+  color:blue;
+}
+.casais{
+  color:purple;
+}
+.familia{
+  color:red;
+}
+.orcamento{
+  color:orange;
+}
+footer{
+  text-align: center;
+}
